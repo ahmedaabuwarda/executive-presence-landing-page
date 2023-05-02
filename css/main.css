@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #379973;
+  --color-primary: #feb900;
   --color-secondary: #52565e;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #7fbda5;
+  color: #ffc732;
   text-decoration: none;
 }
 
@@ -176,7 +176,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #7fbda5;
+  background: #ffc732;
   color: #fff;
 }
 
@@ -660,7 +660,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: #7fbda5;
+  background: rgba(254, 185, 0, 0.8);
 }
 
 @-webkit-keyframes animate-loading {
@@ -1506,7 +1506,7 @@ section {
 }
 
 .project-details .portfolio-info .btn-visit:hover {
-  background: #7fbda5;
+  background: #ffc019;
 }
 
 .project-details .portfolio-description h2 {
