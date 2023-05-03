@@ -53,7 +53,7 @@ body
 ==================================================*/
 .header
 {
-	background: url('../images/women-talks-about-10-honest-completely-helpful-tips-hitting-public-speaking-homerun.jpg');
+	background: url('../images/women-talks-about-10-honest-completely-helpful-tips-hitting-public-speaking-homerun.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -387,7 +387,7 @@ a .rss:hover{
 ==================================================*/
 /*Testimonial*/
 .testimonial{
-	background: url('../images/testimonial.png');
+	background: url('../images/microphone-in-front-of-people.jpg');
 	color: #fff;
 }
 .testimonial .section-title{
