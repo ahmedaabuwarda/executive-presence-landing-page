@@ -1,5 +1,5 @@
 :root {
-  --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Nosto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-primary: "Roboto", sans-serif;
   --font-secondary: "Work Sans", sans-serif;
 }
@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #2ca894;
+  --color-primary: #bda209;
   --color-secondary: #52565e;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #0f8672;
+  color: #978105;
   text-decoration: none;
 }
 
