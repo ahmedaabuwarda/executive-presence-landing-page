@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #8f67fc;
+  --color-primary: #2ca894;
   --color-secondary: #52565e;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #6d3afa;
+  color: #0f8672;
   text-decoration: none;
 }
 
