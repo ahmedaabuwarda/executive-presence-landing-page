@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #379973;
+  --color-primary: #bb433a;
   --color-secondary: #52565e;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #7fbda5;
+  color: #b4271c;
   text-decoration: none;
 }
 
@@ -660,7 +660,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: #7fbda5;
+  background: #b4271c;
 }
 
 @-webkit-keyframes animate-loading {
